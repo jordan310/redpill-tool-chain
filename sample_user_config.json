@@ -1,18 +1,11 @@
 {
-  "extra_cmdline": {
-    "pid": "0xa4a5",
-    "vid": "0x0525",
-    "sn": "1980PDN018511",
-    "mac1": "0011320DC224",
-    "SataPortMap": "11",
-    "DiskIdxMap": "101000"
-  },
-  "synoinfo": {
-    "internalportcfg": "0xffff",
-    "maxdisks": "16",
-    "support_bde_internal_10g": "no",
-    "support_disk_compatibility": "no",
-    "support_memory_compatibility": "no"
-  },
-  "ramdisk_copy": {}
+    "extra_cmdline": {
+        "pid": "0x0001",
+        "vid": "0x46f4",
+        "sn": "1234XXX123",
+        "mac1": "XXYYXXYYXXYY"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": []
 }
