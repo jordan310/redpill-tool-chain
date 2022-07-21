@@ -1,0 +1,11 @@
+{
+    "extra_cmdline": {
+        "pid": "0xa4a5",
+        "vid": "0x0525",
+        "sn": "1780PDN003755",
+        "mac1": "001132BA055B"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": [thethorgroup.virtio]
+}
