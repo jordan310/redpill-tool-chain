@@ -4,8 +4,6 @@
     "vid": "0x0525",
     "sn": "1980PDN002511",
     "mac1": "001132F0779A",
-    "SataPortMap": "11",
-    "DiskIdxMap": "1010"
   },
   "synoinfo": {
     "internalportcfg": "0xffff",
