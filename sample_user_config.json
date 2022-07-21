@@ -4,14 +4,8 @@
     "vid": "0x0525",
     "sn": "1980PDN002511",
     "mac1": "001132F0779A",
-  },
-  "synoinfo": {
-    "internalportcfg": "0xffff",
-    "maxdisks": "16",
-    "support_bde_internal_10g": "no",
-    "support_disk_compatibility": "no",
-    "support_memory_compatibility": "no"
-  },
+    },
+    "synoinfo": {},
     "ramdisk_copy": {},
     "extensions": []
 }
